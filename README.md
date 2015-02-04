@@ -1,4 +1,4 @@
-# Jscheme (Scheme (in Java (by Peter Norvig)))
+## Jscheme (Scheme (in Java (by Peter Norvig)))
 
 This is the code found at http://norvig.com/jscheme.html. During the first commit it was prepared for execution
 in IntelliJ and slightly formatted to more modern coding standards. All of the code committed as "first commit"
